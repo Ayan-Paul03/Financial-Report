@@ -1,8 +1,6 @@
 # Financial-Report
 
-This README provides an overview of the **Financial Report.pbix** file, detailing its key features, dashboard structure, and technical insights.
-
----
+-------
 
 ### **Overview**
 The **Financial Report.pbix** is a Power BI interactive dashboard designed to analyze financial performance metrics. It leverages data modeling and visualization tools to provide actionable insights into revenue, costs, and profit margins.
